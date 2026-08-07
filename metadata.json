@@ -1,0 +1,6 @@
+{
+  "name": "Ceylon Nikah",
+  "description": "Muslim Matrimonial Platform - Find your halal partner in Sri Lanka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
